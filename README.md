@@ -1,2 +1,2 @@
-# DL4H_Project
-Final project for CS 598
+# DL4H Project - Team 170
+Final project for CS 598, by Noah Slocum (team 170)
